@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Hoje o coritiba vai ganhar do Foz</h1>;
+  return <h1>O coxa conseguiu perder bosta lixo</h1>;
 }
 
 function teste() {
